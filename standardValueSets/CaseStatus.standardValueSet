@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Escalated</fullName>
+        <default>false</default>
+        <label>Escalated</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Closed</fullName>
+        <default>false</default>
+        <label>Closed</label>
+        <closed>true</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>New</fullName>
+        <default>true</default>
+        <label>New</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Working</fullName>
+        <default>false</default>
+        <label>Working</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Bug Logged</fullName>
+        <default>false</default>
+        <label>Bug Logged</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Bug Fixed</fullName>
+        <default>false</default>
+        <label>Bug Fixed</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Change Requested</fullName>
+        <default>false</default>
+        <label>Change Requested</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Awaiting Approval</fullName>
+        <default>false</default>
+        <label>Awaiting Approval</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Approved</fullName>
+        <default>false</default>
+        <label>Approved</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Not Approved</fullName>
+        <default>false</default>
+        <label>Not Approved</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Designed</fullName>
+        <default>false</default>
+        <label>Designed</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Tested</fullName>
+        <default>false</default>
+        <label>Tested</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Implemented</fullName>
+        <default>false</default>
+        <label>Implemented</label>
+        <closed>false</closed>
+    </standardValue>
+</StandardValueSet>
