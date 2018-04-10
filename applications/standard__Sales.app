@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
     <defaultLandingTab>standard-home</defaultLandingTab>
-    <tab>standard-Chatter</tab>
-    <tab>standard-Lead</tab>
-    <tab>standard-Account</tab>
-    <tab>standard-Contact</tab>
-    <tab>standard-Opportunity</tab>
-    <tab>standard-report</tab>
-    <tab>standard-Dashboard</tab>
-    <tab>standard-Product2</tab>
-    <tab>standard-Forecasting3</tab>
-    <tab>standard-Document</tab>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-Lead</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-Opportunity</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>standard-Product2</tabs>
+    <tabs>standard-Forecasting3</tabs>
+    <tabs>standard-Document</tabs>
 </CustomApplication>

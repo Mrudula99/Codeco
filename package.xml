@@ -1530,6 +1530,7 @@
     <members>SocialPost.MediaType</members>
     <members>SocialPost.MessageType</members>
     <members>SocialPost.Name</members>
+    <members>SocialPost.Notes</members>
     <members>SocialPost.OutboundSocialAccountId</members>
     <members>SocialPost.OwnerId</members>
     <members>SocialPost.ParentId</members>
@@ -1755,6 +1756,7 @@
     <members>User.UserPreferencesFavoritesWTShown</members>
     <members>User.UserPreferencesGlobalNavBarWTShown</members>
     <members>User.UserPreferencesGlobalNavGridMenuWTShown</members>
+    <members>User.UserPreferencesHasCelebrationBadge</members>
     <members>User.UserPreferencesHideBiggerPhotoCallout</members>
     <members>User.UserPreferencesHideCSNDesktopTask</members>
     <members>User.UserPreferencesHideCSNGetChatterMobileTask</members>
@@ -1766,6 +1768,7 @@
     <members>User.UserPreferencesHideSfxWelcomeMat</members>
     <members>User.UserPreferencesLightningExperiencePreferred</members>
     <members>User.UserPreferencesPathAssistantCollapsed</members>
+    <members>User.UserPreferencesPreviewCustomTheme</members>
     <members>User.UserPreferencesPreviewLightning</members>
     <members>User.UserPreferencesRecordHomeReservedWTShown</members>
     <members>User.UserPreferencesRecordHomeSectionCollapseWTShown</members>
@@ -1794,6 +1797,8 @@
     <members>User.UserPreferencesShowWorkPhoneToExternalUsers</members>
     <members>User.UserPreferencesShowWorkPhoneToGuestUsers</members>
     <members>User.UserPreferencesSortFeedByComment</members>
+    <members>User.UserPreferencesSuppressEventSFXReminders</members>
+    <members>User.UserPreferencesSuppressTaskSFXReminders</members>
     <members>User.UserPreferencesTaskRemindersCheckboxDefault</members>
     <members>User.UserRoleId</members>
     <members>User.UserType</members>
@@ -4988,6 +4993,7 @@
     <members>Macro</members>
     <members>Mobile</members>
     <members>Name</members>
+    <members>OmniChannel</members>
     <members>Opportunity</members>
     <members>Order</members>
     <members>OrgPreference</members>
@@ -5371,5 +5377,5 @@
     <members>copado__Deployment__c.copado__Deployment_scheduled</members>
     <name>WorkflowTask</name>
   </types>
-  <version>41.0</version>
+  <version>42.0</version>
 </Package>

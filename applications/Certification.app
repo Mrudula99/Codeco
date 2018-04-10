@@ -4,9 +4,9 @@
     <description>Application used to track the training and certification of technicians.</description>
     <formFactors>Large</formFactors>
     <label>Certification</label>
-    <tab>standard-Chatter</tab>
-    <tab>standard-Account</tab>
-    <tab>standard-Contact</tab>
-    <tab>standard-report</tab>
-    <tab>standard-Dashboard</tab>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
 </CustomApplication>
